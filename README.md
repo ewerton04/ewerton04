@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Ola!,+Meu+Nome+é+Ewerton+Santos;Eu+tenho+20+anos;Eu+sou+de+Campinas,+SP;Eu+estudo+Sitemas+de+Informação;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Ola!,+Meu+Nome+é+Ewerton+Santos;Eu+tenho+20+anos;Eu+sou+de+Campinas,+SP;Eu+estudo+Sistemas+de+Informação;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
 
 ## Sobre Mim
  <p> Sou apaixonado por tecnologia e fascinado pelo processo de desenvolvimento que a envolve. Atualmente, estou em busca de me especializar na área de Front-End, onde posso transformar ideias em interfaces visuais atraentes e funcionais.  </p>
