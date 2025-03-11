@@ -16,5 +16,7 @@
 [Site Agência (em andamento ⚠)](https://ewerton04.github.io/Projeto_Dev_Web/)
 <br>
 [Calculadora](https://ewerton04.github.io/calculadora/)
+<br>
+[Coffee Shop](https://ewerton04.github.io/projeto-faculdade/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
